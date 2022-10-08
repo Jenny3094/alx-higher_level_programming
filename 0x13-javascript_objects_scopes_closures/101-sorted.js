@@ -1,6 +1,5 @@
 #!/usr/bin/node
 
-#!/usr/bin/node
 const dict = require('./101-data.js').dict;
 let newDict = {};
 for (let key in dict) {
