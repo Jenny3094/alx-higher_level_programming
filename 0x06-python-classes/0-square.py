@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-"""Square Class
-This class don't do anything for the moment
-"""
+""" A module to create an empty class Square """
 
 
 class Square:
+    """ Creating an empty class Square """
     pass
